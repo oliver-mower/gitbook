@@ -7,7 +7,7 @@ description: >-
 
 # Deforestation in Indonesia
 
-{% embed url="https://codesandbox.io/embed/vnv8s4?view=preview&hidenavigation=1" fullWidth="true" height="800px" %}
+{% embed url="https://codesandbox.io/embed/vnv8s4?view=preview&hidenavigation=1" fullWidth="true" height="3000px" minHeight="1000px" %}
 
 ## Parameter Breakdown
 
